@@ -1,0 +1,11 @@
+#container {
+	width: 800px;
+	height: 800px;
+	border: 1px solid black;
+}
+.etchPanel {
+	background-color: #2263D8;
+	float: left;
+	width: 100px;
+	height: 100px;
+}
